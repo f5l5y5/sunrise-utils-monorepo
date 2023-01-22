@@ -1,14 +1,20 @@
 {
 	"name": "sunrise-utils-monorepo",
 	"version": "1.0.0",
-	"description": "",
+	"description": "pnpm+monorepo utils",
 	"main": "index.js",
 	"scripts": {
 		"build": "pnpm -r run build",
 		"watch": "pnpm --parallel -r run watch"
 	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/f5l5y5/sunrise-utils-monorepo",
+		"directory": "packages"
+	},
+	"homepage": "https://github.com/f5l5y5/sunrise-utils-monorepo#readme",
 	"keywords": [],
-	"author": "",
+	"author": "yinuo",
 	"license": "MIT",
 	"devDependencies": {
 		"@changesets/cli": "^2.26.0",
