@@ -1,0 +1,17 @@
+{
+	"name": "sunrise-utils-monorepo",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"build": "pnpm -r run build",
+		"watch": "pnpm --parallel -r run watch"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "MIT",
+	"devDependencies": {
+		"@changesets/cli": "^2.26.0",
+		"rimraf": "^4.1.1"
+	}
+}
