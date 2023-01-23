@@ -1,3 +1,3 @@
-import { isEven } from 'pkg-a'
+import { isEven } from 'sunrise-pkg-a'
 
 export const isOdd = (x: number) => !isEven(x)

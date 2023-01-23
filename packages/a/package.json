@@ -1,5 +1,5 @@
 {
-	"name": "pkg-a",
+	"name": "sunrise-pkg-a",
 	"version": "0.0.0",
 	"main": "dist/index.js",
 	"files": [
@@ -20,6 +20,7 @@
 	},
 	"homepage": "https://github.com/f5l5y5/sunrise-utils-monorepo/tree/main/packages/a#readme",
 	"publishConfig": {
-		"access": "public"
+		"access": "public",
+		"registry": "https://registry.npmjs.org/"
 	}
 }
