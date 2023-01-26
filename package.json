@@ -1,9 +1,7 @@
 {
-	"name": "sunrise-utils-monorepo",
 	"version": "1.0.0",
 	"private": true,
 	"description": "pnpm+monorepo utils",
-	"main": "index.js",
 	"scripts": {
 		"build": "pnpm -r run build",
 		"watch": "pnpm --parallel -r run watch",

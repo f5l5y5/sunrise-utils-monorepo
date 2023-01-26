@@ -19,11 +19,7 @@
 		"directory": "packages"
 	},
 	"homepage": "https://github.com/f5l5y5/sunrise-utils-monorepo/tree/main/packages/b#readme",
-	"publishConfig": {
-		"access": "public",
-		"registry": "https://registry.npmjs.org/"
-	},
 	"dependencies": {
-		"sunrise-pkg-a": "workspace:^0.0.0"
+		"sunrise-pkg-a": "workspace:*"
 	}
 }

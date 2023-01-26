@@ -18,7 +18,7 @@ importers:
 
   packages/b:
     specifiers:
-      sunrise-pkg-a: workspace:^0.0.0
+      sunrise-pkg-a: workspace:*
       typescript: ^4.9.4
     dependencies:
       sunrise-pkg-a: link:../a

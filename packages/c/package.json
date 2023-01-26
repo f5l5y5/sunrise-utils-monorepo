@@ -18,9 +18,5 @@
 		"url": "https://github.com/f5l5y5/sunrise-utils-monorepo/tree/main/packages/c",
 		"directory": "packages"
 	},
-	"homepage": "https://github.com/f5l5y5/sunrise-utils-monorepo/tree/main/packages/c#readme",
-	"publishConfig": {
-		"access": "public",
-		"registry": "https://registry.npmjs.org/"
-	}
+	"homepage": "https://github.com/f5l5y5/sunrise-utils-monorepo/tree/main/packages/c#readme"
 }
