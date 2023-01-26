@@ -1,6 +1,10 @@
 {
 	"name": "sunrise-pkg-a",
-	"version": "0.0.0",
+	"version": "1.0.0",
+	"description": "isEven utils",
+	"keywords": [
+		"isEven"
+	],
 	"main": "dist/index.js",
 	"files": [
 		"dist"
@@ -18,5 +22,8 @@
 		"url": "https://github.com/f5l5y5/sunrise-utils-monorepo/tree/main/packages/a",
 		"directory": "packages"
 	},
-	"homepage": "https://github.com/f5l5y5/sunrise-utils-monorepo/tree/main/packages/a#readme"
+	"homepage": "https://github.com/f5l5y5/sunrise-utils-monorepo/tree/main/packages/a#readme",
+	"publishConfig": {
+		"access": "public"
+	}
 }

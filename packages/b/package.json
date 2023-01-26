@@ -1,6 +1,10 @@
 {
 	"name": "sunrise-pkg-b",
-	"version": "0.0.0",
+	"version": "1.0.0",
+	"description": "isOdd utils",
+	"keywords": [
+		"isOdd"
+	],
 	"main": "dist/index.js",
 	"files": [
 		"dist"
@@ -19,6 +23,9 @@
 		"directory": "packages"
 	},
 	"homepage": "https://github.com/f5l5y5/sunrise-utils-monorepo/tree/main/packages/b#readme",
+	"publishConfig": {
+		"access": "public"
+	},
 	"dependencies": {
 		"sunrise-pkg-a": "workspace:*"
 	}
