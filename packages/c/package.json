@@ -1,6 +1,6 @@
 {
 	"name": "sunrise-pkg-c",
-	"version": "1.0.0",
+	"version": "1.2.0",
 	"description": "add utils",
 	"keywords": [
 		"add"
@@ -14,8 +14,7 @@
 	},
 	"scripts": {
 		"watch": "tsc index.ts --outDir dist --watch",
-		"build": "rimraf dist && tsc index.ts --outDir dist",
-		"prepublish": "pnpm run build"
+		"build": "rimraf dist && tsc index.ts --outDir dist"
 	},
 	"publishConfig": {
 		"access": "public"
