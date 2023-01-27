@@ -1,0 +1,15 @@
+{
+  "mode": "exit",
+  "tag": "beta",
+  "initialVersions": {
+    "sunrise-pkg-a": "2.0.0",
+    "sunrise-pkg-b": "1.0.1",
+    "sunrise-pkg-c": "2.0.0-alpha.1"
+  },
+  "changesets": [
+    "forty-tables-shout",
+    "lazy-ears-visit",
+    "rare-taxis-vanish",
+    "stale-games-sleep"
+  ]
+}

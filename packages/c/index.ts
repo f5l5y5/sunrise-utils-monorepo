@@ -1,3 +1,6 @@
-console.log('This is pkg-c v1.1.0')
+console.log('This is pkg-c v2.0.0')
 
-export const add = (a: number, b: number) => a + b
+export const add = (a: number, b: number) => {
+	console.log('v2.0.0')
+	return a + b
+}
