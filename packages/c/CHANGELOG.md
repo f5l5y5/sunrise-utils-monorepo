@@ -1,5 +1,18 @@
 # sunrise-pkg-c
 
+## 2.0.0
+
+### Major Changes
+
+- pro
+- 8046bcc: update v2.0.0
+- 8046bcc: update v2.0.0
+
+### Patch Changes
+
+- 8046bcc: alpha v2.0.1
+- 8046bcc: beta
+
 ## 2.0.0-beta.2
 
 ### Patch Changes
