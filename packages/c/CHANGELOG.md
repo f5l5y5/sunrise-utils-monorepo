@@ -1,5 +1,11 @@
 # sunrise-pkg-c
 
+## 3.0.0
+
+### Major Changes
+
+- @sunrisecn
+
 ## 2.0.0
 
 ### Major Changes
